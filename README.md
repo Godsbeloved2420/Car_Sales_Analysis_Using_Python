@@ -85,26 +85,26 @@ Customers preferred cars produced by ‘Ford’ manufacturer compared to those p
 ### 5.0. Analysis
 ### 5.1. Results:
 
-Car model with the highest resale value compared to its initial price
+# Car model with the highest resale value compared to its initial price
 
 ![picture 1](https://github.com/user-attachments/assets/ad471307-1f21-4328-84a5-8f89f01185a4)
 
-Counting the number of missing values in each column 
+# Counting the number of missing values in each column 
 
 ![picture 2](https://github.com/user-attachments/assets/e8320966-5b8b-46ed-aa90-67d2083086da)
 
-Dropping the columns with null values
+# Dropping the columns with null values
 
 ![picture 3](https://github.com/user-attachments/assets/09b088c7-a038-4260-8003-88f1e2c21082)
 
-Distribution of Car price in the dataset
+# Distribution of Car price in the dataset
 
 ![picture 4](https://github.com/user-attachments/assets/9209bd83-292b-4ec3-8652-ee0abc0d0ec3)
 
-Correlation of numerical values in the dataset
+# Correlation of numerical values in the dataset
 
 ![picture 5](https://github.com/user-attachments/assets/33409225-ba9e-4ad0-84ad-1627f109f63f)
 
-Relationship between Price and Latest launch year
+# Relationship between Price and Latest launch year
 
 ![picture 6](https://github.com/user-attachments/assets/c6fe8082-64c6-4364-8f56-41a45c9897c8)
