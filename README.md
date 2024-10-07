@@ -1,9 +1,9 @@
 # Car_Sales_Analysis_Using_Python
 
-### 1.0. Title
+## 1.0. Title
 Car Sales Analysis using Python
 
-### 2.0 Introductilon
+## 2.0 Introductilon
 ### 2.1. Objectives: 
 
 The analysis focused on achieving the following:
@@ -34,7 +34,7 @@ The primary source of data used here is Car_sales.csv and it's an open source da
 
 https://drive.google.com/file/d/1TLTcaj1-YRat32RBeKwl-g3eyUP7QI5u/view?usp=drive_link
 
-### 3.0. Data Understanding
+## 3.0. Data Understanding
 
 ### 3.1. Data description: The dataset came as a structured dataset which contained 157 observations and 16 columns. 
 
@@ -59,7 +59,7 @@ h) the top 3 fuel-efficient cars with an engine size above 2.5 liters.
 
 i) which Lexus model has the highest horsepower.
 
-### 4.0. Methodology
+## 4.0. Methodology
 ### 4.1. Data preprocessing/Analytical Approach
 
 The dataset was imported into Jupiter notebook, including the different libraries like: numpy, pandas, matplotlib and seaborn. The dataset was called 'data'.
@@ -82,29 +82,31 @@ f) checking and removing of duplicates from the dataset (data.duplicated().sum()
 ### 4.2. Assumptions:
 Customers preferred cars produced by ‘Ford’ manufacturer compared to those produced by other manufacturers due to its average price and fuel efficiency.
 
-### 5.0. Analysis
+## 5.0. Analysis
 ### 5.1. Results:
 
-# Car model with the highest resale value compared to its initial price
+#### Car model with the highest resale value compared to its initial price
 
 ![picture 1](https://github.com/user-attachments/assets/ad471307-1f21-4328-84a5-8f89f01185a4)
 
-# Counting the number of missing values in each column 
+#### Counting the number of missing values in each column 
 
 ![picture 2](https://github.com/user-attachments/assets/e8320966-5b8b-46ed-aa90-67d2083086da)
 
-# Dropping the columns with null values
+#### Dropping the columns with null values
 
 ![picture 3](https://github.com/user-attachments/assets/09b088c7-a038-4260-8003-88f1e2c21082)
 
-# Distribution of Car price in the dataset
+#### Distribution of Car price in the dataset
 
 ![picture 4](https://github.com/user-attachments/assets/9209bd83-292b-4ec3-8652-ee0abc0d0ec3)
 
-# Correlation of numerical values in the dataset
+#### Correlation of numerical values in the dataset
 
 ![picture 5](https://github.com/user-attachments/assets/33409225-ba9e-4ad0-84ad-1627f109f63f)
 
-# Relationship between Price and Latest launch year
+#### Relationship between Price and Latest launch year
 
 ![picture 6](https://github.com/user-attachments/assets/c6fe8082-64c6-4364-8f56-41a45c9897c8)
+
+
