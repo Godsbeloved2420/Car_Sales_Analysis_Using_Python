@@ -1,10 +1,12 @@
 # Car_Sales_Analysis_Using_Python
 
-1.0. Title
+### 1.0. Title
 Car Sales Analysis using Python
 
-2.0 Introductilon
-2.1. Objectives: the analysis focused on achieving the following:
+### 2.0 Introductilon
+### 2.1. Objectives: 
+
+The analysis focused on achieving the following:
 
 a) to determine the manufacturer with the highest and lowest average sales volume.
 b) to discover the distribution of car prices in the data.
