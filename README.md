@@ -100,3 +100,11 @@ Dropping the columns with null values
 Distribution of Car price in the dataset
 
 ![picture 4](https://github.com/user-attachments/assets/9209bd83-292b-4ec3-8652-ee0abc0d0ec3)
+
+Correlation of numerical values in the dataset
+
+![picture 5](https://github.com/user-attachments/assets/33409225-ba9e-4ad0-84ad-1627f109f63f)
+
+Relationship between Price and Latest launch year
+
+![picture 6](https://github.com/user-attachments/assets/c6fe8082-64c6-4364-8f56-41a45c9897c8)
