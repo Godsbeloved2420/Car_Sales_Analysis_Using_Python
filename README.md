@@ -86,5 +86,13 @@ Customers preferred cars produced by ‘Ford’ manufacturer compared to those p
 ### 5.1. Results:
 
 Car model with the highest resale value compared to its initial price
-
 ![picture 1](https://github.com/user-attachments/assets/ad471307-1f21-4328-84a5-8f89f01185a4)
+
+Counting the number of missing values in each column 
+![picture 2](https://github.com/user-attachments/assets/9bfeca42-b287-4eae-827e-deead4cea4cc)
+
+Dropping the columns with null values
+![picture 3](https://github.com/user-attachments/assets/ed33c148-9b54-48c8-bc6f-e5a61b7b3f72)
+
+Distribution of Car price in the dataset
+![picture 4](https://github.com/user-attachments/assets/94959575-17db-4d64-a5a2-869f006a98ad)
