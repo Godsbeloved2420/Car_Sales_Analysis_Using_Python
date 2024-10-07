@@ -9,14 +9,23 @@ Car Sales Analysis using Python
 The analysis focused on achieving the following:
 
 a) to determine the manufacturer with the highest and lowest average sales volume.
+
 b) to discover the distribution of car prices in the data.
+
 c) to determine how the different numerical variables in the data set correlates with each other.
+
 d) to determine the relationship between price and latest launch year.
+
 e) to group cars by manufacturers in order to analyze their average price and fuel efficiency.
+
 f) to identify and visualize the most popular car brands. g) to identify which car model has the highest resale value compared to its initial price.
+
 h) to find out the top 3 fuel-efficient cars with an engine size above 2.5 liters.
+
 i) to determine which Lexus model has the highest horsepower.
-2.2. Context:
+
+### 2.2. Context:
+
 The dataset the different fields collected by a company that deals on car sales.  Some of the variables that made up the dataset includes: Car Manufacturer, Model, Sales, year resale value, Vehicle type, Price, Engine size, Horsepower, Wheelbase, Width, Length, Curb weight, Fuel capacity, Fuel efficiency, Latest Launch year and Power perf factor. The dataset contains different datatype which includes: strings, integers and floats.
 2.3. Data Sources
 The primary source of data used here is Car_sales.csv and it's an open source data which was given as a practice data. The following is the link to the dataset: https://drive.google.com/file/d/1TLTcaj1-YRat32RBeKwl-g3eyUP7QI5u/view?usp=drive_link
