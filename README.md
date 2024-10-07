@@ -109,4 +109,54 @@ Customers preferred cars produced by ‘Ford’ manufacturer compared to those p
 
 ![picture 6](https://github.com/user-attachments/assets/c6fe8082-64c6-4364-8f56-41a45c9897c8)
 
+### 5.2. Interpretation/key findings: 
+
+From the result, it can be seen:
+
+•	‘Ford’ is the Manufacturer with the highest average sales volume while ‘Porsche’ is the manufacturer with the lowest average sales volume.
+
+•	‘Mercedes-B’ is the manufacturer with the highest car price in the dataset.
+
+•	There’s a strong correlation between ‘Horsepower’ and ‘Power perf factor’ where p=0.99.
+
+•	The highest increase in Car price was in 2011.
+
+•	‘Ford’ is mostly purchased by customers.
+
+•	Car model with the highest resale value is Carrera Cabrio. 
+
+•	‘Impala’, ‘Monte Carlo’ and ‘CLK Coupe’ are the top three (3) fuel efficient cars with an engine above 2.5 liters.
+
+•	The ‘Lexus’ model with the highest ‘Horsepower’ is ‘Viper’ with 450 Horsepower.
+
+## 6.0. Conclusion
+### 6.1. Summary of finding:
+
+•	The dataset came as a structured dataset which contained 157 observations and 16 columns. 
+
+•	The dataset contains integers, strings and floats.
+
+•	The ‘Year resale value’ column had the highest null value (36) in the dataset.
+
+•	The dataset had no duplicates but contains a total of fifty-one (51) null values. 
+
+•	‘Ford’ is the Manufacturer with the highest average sales volume while ‘Porsche’ is the manufacturer with the lowest average sales volume.
+
+•	‘Mercedes-B’ is the manufacturer with the highest car price in the dataset.
+
+•	There’s a strong correlation between ‘Horsepower’ and ‘Power perf factor’ where p=0.99.
+
+•	The highest increase in Car price took place in 2011.
+
+•	‘Ford’ is most popular Car Manufacturer.
+
+•	‘Carrera Cabrio’ is the Car model with the highest resale value.
+
+•	‘Impala’, ‘Monte Carlo’ and ‘CLK Coupe’ are the top three (3) fuel efficient cars with an engine above 2.5 liters.
+
+•	The ‘Lexus’ model with the highest ‘Horsepower’ is ‘Viper’ with 450 Horsepower.
+
+## 7.0. Acknowledgement
+
+I acknowledge PSP Analytics for this great platform for learning. I want to sincerely our facilitators (Mr. Okon Prince, Mr. Joseph Edet, Mr. Joseph Elijah and Mr. Zion) for providing the dataset that was used for this analysis and for their tireless efforts to ensure we get the best from the training. Google Colab was employed in this analysis.
 
