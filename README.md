@@ -81,3 +81,10 @@ f) checking and removing of duplicates from the dataset (data.duplicated().sum()
 
 ### 4.2. Assumptions:
 Customers preferred cars produced by ‘Ford’ manufacturer compared to those produced by other manufacturers due to its average price and fuel efficiency.
+
+### 5.0. Analysis
+### 5.1. Results:
+
+Car model with the highest resale value compared to its initial price
+
+![picture 1](https://github.com/user-attachments/assets/b4d22ab7-db0a-4273-a9e6-ccda26aa3754)
